@@ -1,5 +1,4 @@
-<img width="1920" height="1080" alt="{DE3E6C75-3EF0-4610-B83A-BF81927BB56C}" src="https://github.com/user-attachments/assets/242aba19-0444-4f53-87d3-c7efd1ef2c51" /># Exno:1
-Data Cleaning Process
+
 
 # AIM
 To read the given data and perform data cleaning and save the cleaned data to a file.
